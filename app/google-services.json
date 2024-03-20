@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333759889369",
+    "project_id": "converto-app",
+    "storage_bucket": "converto-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333759889369:android:4e9d1de99849eeac8b23c8",
+        "android_client_info": {
+          "package_name": "com.example.convertoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333759889369-ta7cgi8n24p66hlkceuhu2g1jkms2tlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGaNgcmFZ_UGxVPPbkHtfANw3ss5ZDSPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333759889369-ta7cgi8n24p66hlkceuhu2g1jkms2tlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
